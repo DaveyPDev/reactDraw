@@ -1,0 +1,26 @@
+.Deck {
+  text-align: center;
+}
+
+.Auto-Draw {
+  padding: 15px;
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+  border: none;
+  margin: 0 10px;
+}
+
+.Auto-Draw:hover {
+  cursor: pointer;
+  background-color: #444;
+}
+
+.Auto-Draw:active,
+.Auto-Draw:focus {
+  outline: none;
+}
+
+.card-pile {
+  margin-top: 80px;
+}

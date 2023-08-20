@@ -1,0 +1,12 @@
+.ErrorHandling {
+    margin-top: 10px;
+  }
+  
+  .Error-message {
+    background-color: #ffcccc;
+    border: 1px solid #ff0000;
+    padding: 10px;
+    color: #ff0000;
+    font-weight: bold;
+  }
+  

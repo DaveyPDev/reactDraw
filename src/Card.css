@@ -1,0 +1,16 @@
+.Card {
+  position: absolute;
+  z-index: 100;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.Card h3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  text-align: center; 
+
+}
